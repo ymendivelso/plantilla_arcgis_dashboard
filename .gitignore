@@ -1,0 +1,10 @@
+
+node_modules
+package-lock.json
+dist
+plantilla_filtros.zip
+
+# Editor directories and files
+.vscode/*
+.idea
+.DS_Store
